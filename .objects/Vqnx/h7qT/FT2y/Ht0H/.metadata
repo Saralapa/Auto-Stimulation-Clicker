@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click me",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Ht0H24zL1UCtAyu2PuJV0w",
+  "Reference": "MO8amexJeE2sGpUm1wqZmw/Ht0H24zL1UCtAyu2PuJV0w",
+  "ParentRef": "MO8amexJeE2sGpUm1wqZmw/FT2yxPjZSku649PC0H1wmA",
+  "Created": "2025-11-21T23:29:49.423144Z",
+  "Updated": "2025-11-21T23:29:49.423144Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

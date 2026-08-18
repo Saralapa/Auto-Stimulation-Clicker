@@ -1,0 +1,6 @@
+{
+  "Name": "Stimulation Clicker",
+  "ProjectType": "Process",
+  "Description": "Stimulation Clicker",
+  "MainFile": "Main.xaml"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZmNstWUxhEqq49w3eeBDQg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="neal.fun/stimulation-clicker" CVScreenId="c13fe442-dc25-48bc-b5d5-9ec0e7cbdcfc" DesignTimeRectangle="918, 453, 100, 38" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" Guid="877f9220-237f-40e1-8f19-72465cf1e903" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bb4c44068ee08aa4ee8452d097f4592b.png" xmlns="">0dzr204t5K06-eKJ6tXuniQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
